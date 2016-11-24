@@ -1,0 +1,5 @@
+name: sBroadcast
+version: "1.0"
+main: sBroadcast\Loader
+api: [2.0.0]
+author: seetch
